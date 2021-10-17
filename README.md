@@ -1,6 +1,6 @@
-# Next™ React™ Dashboard
+# Simple Material Dashboard
 
-A complete React/Redux/Relay/Next.js dashboard template with perfect benchmarks using Material UI and friends.
+A simple React/Redux/Relay/Next.js dashboard template with perfect benchmarks using Material UI.
 
 ![Dark Theme](docs/dark.png "Dark Theme")
 
