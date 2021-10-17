@@ -1,0 +1,8 @@
+node_modules/
+coverage/
+**/__generated__/
+.tmp/
+.next/
+out/
+static/assets/
+.env

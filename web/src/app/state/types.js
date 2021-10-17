@@ -1,0 +1,12 @@
+export const CREATE = "app/app/CREATE";
+export const START = "app/app/START";
+export const STOP = "app/app/STOP";
+export const SET_STATUS_CODE = "app/app/SET_STATUS_CODE";
+export const SET_USER = "app/app/SET_USER";
+export const SET_CONNECTED = "app/app/SET_CONNECTED";
+export const SET_LOCALE = "app/app/SET_LOCALE";
+export const SET_THEME = "app/app/SET_THEME";
+export const ADD_ACTIVE_SUBSCRIPTION = "app/app/ADD_ACTIVE_SUBSCRIPTION";
+export const REMOVE_ACTIVE_SUBSCRIPTION = "app/app/REMOVE_ACTIVE_SUBSCRIPTION";
+export const SHOW_AUTH_MODAL = "app/app/SHOW_AUTH_MODAL";
+export const HIDE_AUTH_MODAL = "app/app/HIDE_AUTH_MODAL";
