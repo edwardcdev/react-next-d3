@@ -1,4 +1,4 @@
-# Simple Material Dashboard
+# Simple Dashboard using multiple JS stack
 
 A simple React/Redux/Relay/Next.js dashboard template with perfect benchmarks using Material UI.
 
