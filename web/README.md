@@ -3,8 +3,8 @@
 ## Installation
 
 ```
-git clone https://github.com/imfsdev/React-Redux-Relay-Next.js-dashboard.git
-cd React-Redux-Relay-Next.js-dashboard/web
+git clone https://github.com/edwardcdev/react-next-d3.git
+cd react-next-d3/web
 cp .env.example .env
 ```
 
@@ -13,7 +13,7 @@ Edit **.env** file and set your options
 ### Run Production
 
 ```
-cd React-Redux-Relay-Next.js-dashboard.git/common
+cd react-next-d3/common
 yarn install --prod
 
 cd ../web
@@ -26,7 +26,7 @@ yarn start
 ### Run Static Mode Production
 
 ```
-cd React-Redux-Relay-Next.js-dashboard.git/common
+cd react-next-d3/common
 yarn install --prod
 
 cd ../web
@@ -41,7 +41,7 @@ Point your HTTP server to **/out** subdirectory or just do **yarn serve**
 ### Run Development
 
 ```
-cd React-Redux-Relay-Next.js-dashboard.git/common
+cd react-next-d3/common
 yarn install
 
 cd ../api

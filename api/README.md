@@ -3,8 +3,8 @@
 ## Installation
 
 ```
-git clone https://github.com/imfsdev/React-Redux-Relay-Next.js-dashboard.git
-cd next-dashboard/api
+git clone https://github.com/edwardcdev/react-next-d3.git
+cd react-next-d3/api
 cp .env.example .env
 ```
 
@@ -13,7 +13,7 @@ Edit **.env** file and set your options
 ### Run Production
 
 ```
-cd React-Redux-Relay-Next.js-dashboard/common
+cd react-next-d3/common
 yarn install --prod
 
 cd ../api
@@ -24,7 +24,7 @@ yarn start
 ### Run Development
 
 ```
-cd React-Redux-Relay-Next.js-dashboard/common
+cd react-next-d3/common
 yarn install
 
 cd ../api
